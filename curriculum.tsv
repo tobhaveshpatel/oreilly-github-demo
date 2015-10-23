@@ -1,0 +1,36 @@
+Chapter	Lesson	Title
+1 Intro	0101	Introduction And Course Overview / About The Author
+1 Intro	0102	Prerequisites
+2 Basics	0201	Setting Up Your GitHub Account
+2 Basics	0202	Tuning Your Profile
+2 Basics	0203	GitHub Glossary
+2 Basics	0204	Creating A Repo
+2 Basics	0205	Forking A Repo
+3 The GitHub Workflow	0301	Presentation Of The Workflow
+3 The GitHub Workflow	0302	What’s In A Repo?
+3 The GitHub Workflow	0303	Key Terms
+3 The GitHub Workflow	0304	Forking A Repo
+3 The GitHub Workflow	0305	Authoring Commits
+3 The GitHub Workflow	0306	Creating And Managing Branches
+3 The GitHub Workflow	0307	Pull Requests
+3 The GitHub Workflow	0308	What We’ve Learned
+4 Beyond The Site	0401	Key Terms
+4 Beyond The Site	0402	Getting A Regular Git Cli
+4 Beyond The Site	0403	Committing And Sending To GitHub
+4 Beyond The Site	0404	Using The Hub Cli Tool
+4 Beyond The Site	0405	Again, This Time With The Desktop Apps
+4 Beyond The Site	0406	Good Resources For Learning Git
+4 Beyond The Site	0407	What We’ve Learned
+5 GitHub-flavored Markdown	0501	Markdown Basics
+5 GitHub-flavored Markdown	0502	Images In Markdown
+5 GitHub-flavored Markdown	0503	Lists And Tables
+5 GitHub-flavored Markdown	0504	"At Mentions"
+5 GitHub-flavored Markdown	0505	In-Repo Links
+5 GitHub-flavored Markdown	0506	Auto-Linking
+5 GitHub-flavored Markdown	0507	Fenced Code Blocks
+5 GitHub-flavored Markdown	0508	Emojis
+5 GitHub-flavored Markdown	0509	Task Lists
+5 GitHub-flavored Markdown	0510	What We’ve Learned
+6 Searching GitHub	0601	Scopes: GitHub, Single-Repo, Code, Issues, Users...
+6 Searching GitHub	0602	Advanced Searches
+6 Searching GitHub	0603	File Finder
